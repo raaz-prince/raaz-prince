@@ -1,15 +1,96 @@
-# 💫 About Me:
-I'm currently learning SpringBoot
+<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raaz-prince&label=Profile%20views&color=0e75b6&style=flat" alt="raaz-prince" />
+</p>
+
+---
+
+### 🧠 About Me
+- 💻 B.Tech CSE student at **Bhagalpur College of Engineering (BCE)**.
+- ⚙️ Passionate about **Java, Spring Boot, Backend Architecture, and System Design**.
+- 🔐 Experienced in building secure and scalable REST APIs.
+- 🖼️ Interested in backend systems involving **file handling, transformation engines, and real-time processing**.
+- 🐳 Familiar with **Docker, Microservices, and Database Optimization**.
+- 🚀 Currently a **Software Developer Intern at Infosys**.
+- 📫 Reach me at: **krprince006@gmail.com**
+
+---
+
+### 💼 Featured Projects
+
+#### 🎬 Movie API – Secure Backend Application
+> `Java` `Spring Boot` `Spring Security (JWT)` `MySQL` `REST APIs`
+
+- Developed a secure Movie API with JWT-based authentication and role-based access control.
+- Implemented database indexing on frequently queried fields for performance optimization.
+- Designed RESTful endpoints with pagination and filtering support.
+- Structured using layered architecture for scalability and maintainability.
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raaz-prince&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raaz-prince&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raaz-prince&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=raaz-prince&limit=5&theme=dark&combine_all_yearly_contributions=true)
+#### 🖼️ Image Processing Service – Advanced Transformation Engine
+> `Spring Boot` `JPA` `Image Processing` `Multipart` `REST APIs`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Built a robust image processing microservice supporting resize, crop, rotate, mirror, flip, grayscale, sepia, watermarking, and format conversion.
+- Implemented a dynamic transformation engine allowing multiple chained operations in a single request.
+- Developed a custom pixel-level sepia filter using RGB transformation matrix.
+- Persisted image metadata using JPA and implemented pagination for efficient retrieval.
+- Structured using clean layered architecture (Controller → Service → Repository → Utility).
+
+
+---
+
+#### 💱 Currency Converter
+> `React JS` `REST API` `JavaScript`
+
+- Developed a currency conversion app using real-time exchange APIs.
+- Implemented API integration and error handling.
+- Designed a clean and user-friendly interface.
+
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages
+`Java` `SQL` `JavaScript`
+
+#### 🧩 Backend
+`Spring Boot` `Spring Security` `JPA` `REST APIs` `Microservices`
+
+#### 🎨 Frontend
+`React JS` `HTML` `CSS`
+
+#### 💾 Database
+`MySQL`
+
+#### ⚙️ Tools & DevOps
+`Docker` `Git` `Postman`
+
+---
+
+### 📜 Achievements
+- 🌍 Secured **Global Rank 7,564 in TCS CodeVita**
+- 🏆 Smart India Hackathon (SIH) – College Level Finalist
+- 🎓 CGPA: **8.4 (B.Tech CSE)**
+
+---
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/razzprince)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raaz-prince&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raaz-prince&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaz-prince&layout=compact&theme=radical" alt="Top Languages" />
+</p>
